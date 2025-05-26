@@ -52,7 +52,7 @@ Your bank statement should be a CSV with the following structure:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/clearspend.git
+git clone https://github.com/shrividya-c/clearspend.git
 cd clearspend
 ```
 
